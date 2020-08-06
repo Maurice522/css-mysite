@@ -127,3 +127,10 @@ hr {
 .name{
   text-decoration: underline;
 }
+.phnuser{
+  visibility: hidden;
+}
+@media (max-width:1028px) {
+  .phnuser {
+    visibility: visible;
+}
