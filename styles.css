@@ -128,6 +128,7 @@ hr {
   text-decoration: underline;
 }
 .phnuser{
+  background-color: #e4f9f5;
   visibility: hidden;
 }
 @media (max-width:1028px) {
@@ -141,6 +142,9 @@ hr {
     visibility: hidden;
   }
   .contact-me{
+    visibility: hidden;
+  }
+  .middle-container{
     visibility: hidden;
   }
 }
