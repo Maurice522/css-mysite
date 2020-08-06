@@ -127,7 +127,7 @@ hr {
 .name{
   text-decoration: underline;
 }
-.phn{
+div.phn{
   background-color: #e4f9f5;
 }
 .phnuser{
@@ -147,7 +147,7 @@ hr {
   .contact-me{
     visibility: hidden;
   }
-  .mid{
+  div.mid{
     visibility: hidden;
   }
 }
