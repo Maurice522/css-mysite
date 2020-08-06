@@ -134,3 +134,13 @@ hr {
   .phnuser {
     visibility: visible;
 }
+  .top{
+    visibility: hidden;
+  }
+  .skills{
+    visibility: hidden;
+  }
+  .contact-me{
+    visibility: hidden;
+  }
+}
